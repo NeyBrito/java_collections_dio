@@ -61,6 +61,9 @@ public class ExemploSet {
         System.out.println(notas2);
         System.out.println("Confira se o conjunto está vazio: " + notas2.isEmpty());
 
+        Set<String> coresDaBandeiraDoBrasil = new TreeSet<>(Arrays.asList("verde", "amarelo", "azul", "branco"));
+        System.out.println(coresDaBandeiraDoBrasil);
+
 
     }
 }

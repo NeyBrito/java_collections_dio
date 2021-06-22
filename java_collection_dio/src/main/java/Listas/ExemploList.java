@@ -1,9 +1,8 @@
+package Listas;
+
 import jdk.swing.interop.SwingInterOpUtils;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Iterator;
+import java.util.*;
 
 class ExemploList {
     public static void main(String[] args) {
@@ -22,6 +21,9 @@ class ExemploList {
         //notas.add(1d);
         //notas.remove(5d);0
         //System.out.println(notas);
+
+//        List<Character> consoantesMeuNome = new Arrays.asList('c', 'm', 'l', 'c', 'v', 'l', 'c', 'n', 't');
+//        System.out.println(consoantesMeuNome);
 
         System.out.println("Crie uma lista e adcione as sete notas.");
         ArrayList<Double> notas = new ArrayList<Double>();

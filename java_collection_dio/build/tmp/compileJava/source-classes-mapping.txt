@@ -1,5 +1,19 @@
+Map/exercicios/Contato.java
+ br.com.dio.collection.map.exercicioProposto03.Contato
 Listas/ExemploList.java
- ExemploList
+ Listas.ExemploList
+Map/ExemploOrdenacaoMap.java
+ Map.ComparatorNome
+ Map.ExemploOrdenacaoMap
+ Map.ExemploOrdenacaoMap$1
+ Map.ExemploOrdenacaoMap$2
+ Map.Livros
+Set/OrdenacaoSet/ExemploOrdenacaoSet.java
+ Set.OrdenacaoSet.CompatorNomeGeneroTempoEpisodio
+ Set.OrdenacaoSet.ExemploOrdenacaoSet
+ Set.OrdenacaoSet.ExemploOrdenacaoSet$1
+ Set.OrdenacaoSet.ExemploOrdenacaoSet$2
+ Set.OrdenacaoSet.Serie
 Listas/ExemploOrdenacaoList.java
  ComparatorCor
  ComparatorIdade
@@ -7,5 +21,23 @@ Listas/ExemploOrdenacaoList.java
  ExemploOrdenacaoList
  ExemploOrdenacaoList$1
  Gato
+Map/exercicios/ExercicioProposto03.java
+ br.com.dio.collection.map.exercicioProposto03.ComparatorOrdemNomeContato
+ br.com.dio.collection.map.exercicioProposto03.ComparatorOrdemNumerica
+ br.com.dio.collection.map.exercicioProposto03.ExercicioProposto03
+ br.com.dio.collection.map.exercicioProposto03.ExercicioProposto03$1
+ br.com.dio.collection.map.exercicioProposto03.ExercicioProposto03$2
+streamAPI/ExerciciosStreamAPI.java
+ streamAPI.ExerciciosStreamAPI
+Map/ExemploMap.java
+ Map.ExemploMap
+ Map.ExemploMap$1
+ Map.ExemploMap$2
 Set/ExemploSet.java
  Set.ExemploSet
+streamAPI/ExemploStream.java
+ streamAPI.ExemploStream
+streamAPI/RefatoracaoOrdenacaoMap.java
+ streamAPI.RefatoracaoOrdenacaoMap
+ streamAPI.RefatoracaoOrdenacaoMap$1
+ streamAPI.RefatoracaoOrdenacaoMap$2
